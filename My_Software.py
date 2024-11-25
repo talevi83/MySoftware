@@ -3,3 +3,7 @@ def click():
 
 def NewScreen():
     print("New Screen")
+
+    
+NewScreen()
+click()
